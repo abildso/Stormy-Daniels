@@ -1,0 +1,8 @@
+.DS_Store
+
+#Ableton Project Info/
+#Samples/
+#Backup/
+Backup/
+Desktop.ini
+**/*.workflow/**/QuickLook/
