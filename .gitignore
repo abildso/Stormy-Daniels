@@ -6,3 +6,5 @@
 Backup/
 Desktop.ini
 **/*.workflow/**/QuickLook/
+*.mp3
+*.wav
